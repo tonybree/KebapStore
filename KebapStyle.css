@@ -8,6 +8,7 @@ body{
 p{
     font-size: 12;
     color: #289FB9;
+    
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -83,4 +84,15 @@ button:hover {
     background-color: white;
     color: #289FB9;
     border: 2px solid #289FB9;
+}
+
+#orderDiv {
+    position: absolute;
+    background-color: white;
+    border-width: 0.5%;
+    border-color: #1b1b1b;
+    top: 62%;
+    left: 14%;
+    width: 20%;
+    height: 17%;
 }
